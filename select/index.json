@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "瑠璃色の地球",
+  "base_artist": "松田　聖子",
+  "createdAt": "2026-02-18T13:22:11.042692Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/01_瑠璃色の地球_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/02_瑠璃色の地球_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/03_瑠璃色の地球_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/04_瑠璃色の地球_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "瑠璃色の地球(コメント)",
+      "artist": "松田聖子",
+      "has_synced": false,
+      "path": "select/05_瑠璃色の地球(コメント)_松田聖子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "一青窈",
+      "has_synced": false,
+      "path": "select/06_瑠璃色の地球_一青窈.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/07_瑠璃色の地球_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "及川なずな(CV.広瀬すず)",
+      "has_synced": true,
+      "path": "select/08_瑠璃色の地球_及川なずな(CV.広瀬すず).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "瑠璃色の地球 - 2020",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/09_瑠璃色の地球_-_2020_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "瑠璃色の地球([if] ver.)",
+      "artist": "及川なずな(CV.広瀬すず)",
+      "has_synced": true,
+      "path": "select/10_瑠璃色の地球([if]_ver.)_及川なずな(CV.広瀬すず).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "瑠璃色の地球 [オリジナル・カラオケ] {Lapis Lazuli Earth} {Original Karaoke}",
+      "artist": "松田聖子 (Seiko Matsuda)",
+      "has_synced": true,
+      "path": "select/11_瑠璃色の地球_[オリジナル・カラオケ]_{Lapis_Lazuli_Earth}_{Original_Karaoke}_松田聖子_(Seiko_Matsuda).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/12_瑠璃色の地球_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "松田聖子",
+      "has_synced": false,
+      "path": "select/13_瑠璃色の地球_松田聖子.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "瑠璃色の地球 - 「この地球の日々たちへ」バージョン",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/14_瑠璃色の地球_-_「この地球の日々たちへ」バージョン_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "瑠璃色の地球 - 2020",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/15_瑠璃色の地球_-_2020_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "瑠璃色の地球",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/16_瑠璃色の地球_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瑠璃色の地球",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_01_瑠璃色の地球_松田_聖子.txt"
+    }
+  ]
+}
